@@ -9,7 +9,6 @@
  *        - inlineのメソッドやtemplateメソッドはフックできないことがある。
  *        - 本体はCreateStubスクリプト(perl)で生成する。
  *
- * COPYRIGHT(c) 2015. MITSUBISHI ELECTRIC CORPORATION ALL RIGHTS RESERVED.
  */
 
 //---- ヘッダファイルインクルード
